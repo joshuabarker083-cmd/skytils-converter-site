@@ -1,4 +1,3 @@
-/sthw set Dredlig's Public Path o' Amber and Ruby 459 120 569
 /sthw set 1 461 123 572
 /sthw set 2 454 120 577
 /sthw set 3 459 122 583
